@@ -1,7 +1,7 @@
 
 # Loja Java OO
 
-Um projeto de console em Java que simula o processo de registro de pedidos em uma loja, aplicando conceitos de Orientação a Objetos (OO), como **associações**, **enumerações** e **trabalhos com datas**.
+Um projeto de console em Java que simula o processo de registro de pedidos em uma loja, aplicando conceitos de Orientação a Objetos (OO), como **associações**, **enumerações** e **trabalho com datas**.
 
 ## **Descrição do Projeto**
 
